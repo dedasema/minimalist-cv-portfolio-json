@@ -1,0 +1,209 @@
+{
+  "basics": {
+    "name": "Dennis David Sejas Mamani",
+    "label": "Desarrollador Web (casi Fullstack)",
+    "image": "/me.webp",
+    "email": "dedasema734012@gmail.com",
+    "phone": "+591 62795140",
+    "url": "https://dennis-sejas.vercel.app",
+    "summary": "Estudiante de Ingeniería en Sistemas, apasionado por la tecnología y el desarrollo web. Me gusta aprender cosas nuevas y compartir conocimientos. Me considero una persona proactiva, responsable y comprometida con mi trabajo. Me encanta la música, toco el piano",
+    "location": {
+      "address": "",
+      "postalCode": "0000",
+      "city": "Santa Cruz",
+      "countryCode": "ES",
+      "region": "Bolivia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "dennis-sejas",
+        "url": "https://linkedin.com/in/dennis-sejas"
+      },
+      {
+        "network": "X",
+        "username": "dennis_sejas",
+        "url": "https://x.com/dennis_sejas"
+      },
+      {
+        "network": "GitHub",
+        "username": "dedasema",
+        "url": "https://github.com/dedasema"
+      }
+    ]
+  },
+  "education": [{
+    "institution": "Universidad Autónoma Gabriel René Moreno",
+    "url": "https://www.uagrm.edu.bo",
+    "area": "Ingeniero de Sistemas",
+    "studyType": "Bachelor",
+    "startDate": "2022-03-01",
+    "endDate": "2025-12-23",
+    "score": "4.0",
+    "courses": [
+      "Introducción a la Informática",
+      "Programación 1",
+      "Programación 2",
+      "Estructura de Datos 1",
+      "Estructura de Datos 2",
+      "Base de Datos 1",
+      "Base de Datos 2",
+      "Arquitecura de Computadoras",
+      "Programación ensamblador",
+      "Sistemas Operativos 1"
+    ]
+  },
+  {
+    "institution": "Udemy",
+    "url": "https://www.udemy.com",
+    "area": "Desarrollo Web",
+    "studyType": "Curso",
+    "startDate": "2024",
+    "score": "4.5",
+    "courses": [
+      "Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL"
+    ]
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermedio"	,
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "PHP",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Laravel",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Jquery",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermedio",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Básico",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Básico",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Básico",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermedio",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "SQLite",
+      "level": "Básico",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermedio",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "JAHNISSI",
+      "isActive": true,
+      "description": "Website del ministerio de jóvenes de la Iglesia Fortaleza",
+      "highlights": [
+        "Jahnissi",
+        "Jóvenes"
+      ],
+      "url": "https://jahnissi.netlify.app"
+    },
+    {
+      "name": "FORTALEZA",
+      "isActive": true,
+      "description": "Website de la Iglesia Fortaleza",
+      "highlights": [
+        "Iglesia",
+        "En desarrollo"
+      ],
+      "url": "https://iglesia-fortaleza.vercel.app"
+    },
+    {
+      "name": "PCSTOCK",
+      "isActive": true,
+      "description": "Sistema de Gestión de Inventario para la venta de computadoras",
+      "highlights": [
+        "Inventario",
+        "En desarrollo"
+      ],
+      "url": "#"
+    },
+    {
+      "name": "Tres en raya con IA",
+      "isActive": true,
+      "description": "Juego del tres en raya con inteligencia artificial",
+      "highlights": [
+        "Inteligencia Artificial",
+        "Juego"
+      ],
+      "url": "https://tic-tac-toe-minimax-ia.vercel.app"
+    }
+  ]
+}
